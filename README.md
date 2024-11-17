@@ -1,6 +1,6 @@
 1. Clone the repository
 
-    git clone https://github.com/your-username/car-dealer-app.git cd car-dealer-app
+    git clone git push -u origin main
 
 2. Change directory
 
