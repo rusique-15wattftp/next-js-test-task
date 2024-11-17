@@ -1,6 +1,6 @@
 1. Clone the repository
 
-    git clone git push -u origin main
+    git clone https://github.com/rusique-15wattftp/next-js-test-task.git
 
 2. Change directory
 
