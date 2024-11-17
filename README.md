@@ -4,7 +4,7 @@
 
 2. Change directory
 
-    cd car-dealer-app
+    cd next-js-test-task
 
 3. Install Dependencies
 
